@@ -1,0 +1,7 @@
+Variable is just like containers where we store the values.
+In python , Variable don't need to declare of Data Type.
+
+type() functions is used to check the types of data types.
+Variable are case Sensitive.
+
+Global functions are those variables which are declared outside the functions.

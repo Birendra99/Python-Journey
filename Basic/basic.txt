@@ -1,0 +1,14 @@
+Invented in the Netherlands, early 90s by Guido Van Rossum
+It is free and open Source.
+Python is used in Web Development, Software Development, System Scripting, AI, Mathmatics, IOT, Game Develpment, etc.
+It is a object Oriented Programming Language.
+-Interpreted Language
+-Dynamically Typed Language
+-Portable
+-High Level Programming Language
+-Automatic Memory Management
+- Indentations and New Lines Are Very Important
+-Python programs have .py file extension.
+# single line comments
+''' Multiline Comments'''
+
