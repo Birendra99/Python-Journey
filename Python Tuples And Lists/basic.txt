@@ -1,0 +1,19 @@
+In typles, we used the round brackets means small bracket and we can put the items inside it as we wants
+In typles, allowed to store the duplicate values 
+
+len() is used to find the length of the tuples
+
+We cannot update in tuples but we can update in the list
+we can say tuples is immutable data types
+-Fixed Order and Cannot Change in Tuples.
+
+
+------------------------->Set <------------------------
+
+In sets, the items are in unorderd list.
+we cannot access it.
+It is enclosed within the curly brackets.
+Duplicates values are not allowed in the sets .
+It is uniqueley store the items into the sets.
+
+It's gives the results as unordered way into the conslole.
