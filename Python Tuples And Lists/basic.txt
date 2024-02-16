@@ -17,3 +17,5 @@ Duplicates values are not allowed in the sets .
 It is uniqueley store the items into the sets.
 
 It's gives the results as unordered way into the conslole.
+- add is used to add the items inside the sets
+- pop() functions also used to remove the random items from the sets

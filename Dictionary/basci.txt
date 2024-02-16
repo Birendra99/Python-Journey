@@ -1,0 +1,11 @@
+Dictionary are used to store the data values with pairing keys.
+- orderd, changeable and did not allow duplicate
+- Dictionary are enclosed with the curly brackets
+- When we add the duplicate the keys to the Dictionary then it replace with the previous ones.
+- .keys() is used to find the actual keys names of the Dictionary. 
+- .values() is used to get the values present in the Dictionary
+- .update is used to update the keys and values by providing the with the previous keys with the new values
+-In update there is need to take care of the curly brackets within the update small brackets then provide the keys and values with in it.
+-Using update keywords we can add the keys and values within it at the end.
+-To remove the values from the Dictionary, we used the pop keywords and providing the keys to it.
+-Nested Keys values are also supported.
