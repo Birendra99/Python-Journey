@@ -1,0 +1,4 @@
+For loops is used for iterating the sequence of the elements present in the list, tuples and set and Dictionary.
+In range first parameter is included and last parameter is excluded.
+-else keyword is used in for loops
+-else block is only used when specially we need to used.
