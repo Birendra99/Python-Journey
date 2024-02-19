@@ -1,0 +1,1 @@
+# Binary search is efficient for sorted data structures and divides the search space in half.
