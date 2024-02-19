@@ -1,0 +1,2 @@
+def means defination
+syntax def my_functon():
